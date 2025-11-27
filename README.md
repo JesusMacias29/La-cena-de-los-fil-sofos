@@ -1,8 +1,10 @@
-📘 README profesional y natural (más fluido y con comas)
+📘 README profesional y natural (más fluido y con comas)  
 🍽️ Cena de los Filósofos — Implementación en Java con Semáforos
 
 Este proyecto implementa el famoso problema de la “Cena de los Filósofos” utilizando Java y la clase Semaphore, con el objetivo de simular cómo varios hilos comparten recursos al mismo tiempo,
 y cómo evitar situaciones de bloqueo o acceso incorrecto. La idea es representar a cinco filósofos que alternan entre pensar y comer, usando palillos que son recursos compartidos, y controlando su acceso mediante semáforos para garantizar un funcionamiento seguro y ordenado.
+
+JESÚS MACÍAS
 
 ---
 
