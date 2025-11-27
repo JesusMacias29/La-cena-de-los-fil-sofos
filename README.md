@@ -5,7 +5,7 @@ Este proyecto implementa el famoso problema de la “Cena de los Filósofos” u
 y cómo evitar situaciones de bloqueo o acceso incorrecto. La idea es representar a cinco filósofos que alternan entre pensar y comer, usando palillos que son recursos compartidos, y controlando su acceso mediante semáforos para garantizar un funcionamiento seguro y ordenado.
 
 JESÚS MACÍAS
-
+-
 ---
 
 🧠 Objetivo
