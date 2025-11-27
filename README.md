@@ -53,7 +53,7 @@ Fin del programa
 
 ---
 
-📄 Enlace para el PDF -> 
+📄 Enlace para el PDF -> https://github.com/JesusMacias29/La-cena-de-los-fil-sofos/blob/main/La%20cena%20de%20los%20fil%C3%B3sofos%20JES%C3%9AS%20MAC%C3%8DAS%20.pdf
 
 ---
 
